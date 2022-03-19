@@ -1,5 +1,6 @@
 .card {
   background-color: var(--secondary-color);
+  width: 1200px;
 }
 
 input[type="text"],
@@ -8,13 +9,6 @@ input[type="email"] {
   padding-left: 20px;
   font-size: 13px;
   width: 100%;
-}
-
-.btn-subs {
-  height: 58px;
-  border: none;
-  font-size: 13px;
-  background-color: var(--primary-color);
 }
 
 .subs-text {
